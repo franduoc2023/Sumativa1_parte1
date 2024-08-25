@@ -1,0 +1,1 @@
+Parte 1 de la sumativa Fullstacks. Crea un microservicio que gestione el seguimiento de envíos de productos para mascotas. Implementa operaciones para consultar nuevos envíos y consultar la ubicación actual.
